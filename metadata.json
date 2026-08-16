@@ -1,0 +1,6 @@
+{
+  "name": "CreatorOS",
+  "description": "AI-powered social media automation engine that transforms one piece of creator content into a complete, verified, platform-native content campaign.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
